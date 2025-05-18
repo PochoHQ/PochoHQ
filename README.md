@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
+
 👋 Sobre mí<br><br>Soy un Scripter y DevOps Engineer enfocado en la automatización de procesos, desarrollo de herramientas CLI y creación de soluciones open source con propósito. Colaborador activo en proyectos OSS y entusiasta de la ingeniería eficiente y reutilizable.<br>🛠️ Tecnologías & Herramientas<br><br>    📝 Lenguajes: Bash, Python, JavaScript/TypeScript<br><br>    📝 DevOps & Automatización: GitHub Actions, 📝 CI/CD, Docker, Ansible<br><br>    📝 CLI Tools: desarrollo, mantenimiento y distribución<br><br>    📝 Scripting: shell scripts robustos y mantenibles<br><br>    📝 Cloud & Infra: Linux, AWS, servidores bare-metal<br><br>📦 Proyectos Destacados<br><br>    🍑 pochohq/toolkit: Colección de scripts y herramientas CLI reutilizables<br><br>    🍑 devflow: Framework para flujos DevOps simplificados<br><br>    🍑Aporte a múltiples proyectos open source (ver más abajo)
 
 

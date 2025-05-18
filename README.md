@@ -5,6 +5,9 @@
 👋 Sobre mí<br><br>Soy un Scripter y DevOps Engineer enfocado en la automatización de procesos, desarrollo de herramientas CLI y creación de soluciones open source con propósito. Colaborador activo en proyectos OSS y entusiasta de la ingeniería eficiente y reutilizable.<br>🛠️ Tecnologías & Herramientas<br><br>    📝 Lenguajes: Bash, Python, JavaScript/TypeScript<br><br>    📝 DevOps & Automatización: GitHub Actions, 📝 CI/CD, Docker, Ansible<br><br>    📝 CLI Tools: desarrollo, mantenimiento y distribución<br><br>    📝 Scripting: shell scripts robustos y mantenibles<br><br>    📝 Cloud & Infra: Linux, AWS, servidores bare-metal<br><br>📦 Proyectos Destacados<br><br>    🍑 pochohq/toolkit: Colección de scripts y herramientas CLI reutilizables<br><br>    🍑 devflow: Framework para flujos DevOps simplificados<br><br>    🍑Aporte a múltiples proyectos open source (ver más abajo)
 
 
+ <img src="https://media.giphy.com/media/l41lISBVXb9gRT32w/giphy.gif" width="300" alt="jokes GIF">
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/index.py) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pocho.dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Pocho.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:support@pocho.dev) 
 

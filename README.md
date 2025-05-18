@@ -7,7 +7,8 @@
 
  <img src="https://media.giphy.com/media/l41lISBVXb9gRT32w/giphy.gif" width="300" alt="jokes GIF">
  <p align="center"><img alt="GitHub deployments" src="https://img.shields.io/github/deployments/ABSphreak/readme-jokes/Production?label=Production&style=flat-square"/>
-
+ <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/ABSphreak/readme-jokes/Preview?label=Testing&style=flat-square"/>
+ <a href="https://github.com/ABSphreak/readme-jokes/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ABSphreak/readme-jokes?label=Issues&style=flat-square"/></a></p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/index.py) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pocho.dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Pocho.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:support@pocho.dev) 
